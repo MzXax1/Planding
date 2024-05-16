@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T09:32:23.696Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="YDHFe6DcYT4vkVX4YMSb" version="23.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-16T09:34:57.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ZLeoSuPBn2qnAITJaUQo" version="23.1.0" type="github" pages="4">
   <diagram name="db desain" id="F_ZZNzsOpYxZgieWhEA7">
     <mxGraphModel dx="1035" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -524,6 +524,24 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pPK_FmbTqha6BwB286VK-1" value="navbar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="630" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pPK_FmbTqha6BwB286VK-2" value="tittle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pPK_FmbTqha6BwB286VK-3" value="image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="390" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pPK_FmbTqha6BwB286VK-4" value="content" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="390" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="pPK_FmbTqha6BwB286VK-5" value="footer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="810" width="630" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pPK_FmbTqha6BwB286VK-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="90" width="230" height="710" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
